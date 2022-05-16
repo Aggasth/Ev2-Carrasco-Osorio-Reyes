@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAL\iMedidorDAL.cs" />
+    <Compile Include="DAL\MedidorDAL.cs" />
     <Compile Include="DAL\MedidorLecturaDAL.cs" />
     <Compile Include="DTO\Medidor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

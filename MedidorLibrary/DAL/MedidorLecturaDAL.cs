@@ -75,7 +75,6 @@ namespace MedidorLibrary.DAL
                             Fecha = fechatxt,
                             Consumo = consumotxt
                         };
-
                         medidores.Add(m);
                     };
                 } while (texto != null);

@@ -77,6 +77,7 @@ namespace ClienteApp
                 Medidor actual = lista[i];
                 Console.WriteLine("Id: " + actual.Id + " Fecha: " + actual.Fecha + " Consumo: " + actual.Consumo);
             }
+            Console.WriteLine("Ok");
             Console.ReadKey();
         }
     }
